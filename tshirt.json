@@ -1,0 +1,11 @@
+{
+    "title":"t-shirt survery",
+    "description":"this is a survery about t-shirts",
+    "contents":[
+       {
+          "type":"question",
+          "text":"Do you like this",
+          "media":"https://cdn.discordapp.com/attachments/831169327385673738/1156636296668778577/image.png"
+       }
+    ]
+ }
